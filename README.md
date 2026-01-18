@@ -7,7 +7,7 @@ A simple Python script to generate QR codes from URLs or text. Fun, easy, and sa
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/qr-code-generator.git
+git clone https://github.com/jkberiksson/qr-code-generator.git
 ```
 
 2. Navigate to the folder:
